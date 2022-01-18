@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module https://github.com/flee598/wowchemy-shortcode-prodibi
 
 go 1.15
