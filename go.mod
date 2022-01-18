@@ -1,3 +1,3 @@
-module github.com/flee598/wowchemy-shortcode-prodibi
+module github.com/flee598/prodibi
 
 go 1.15
